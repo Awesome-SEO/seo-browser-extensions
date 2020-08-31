@@ -19,7 +19,7 @@ To learn more or install an extension click the labels `Chrome`, `Firefox`, etc.
 
 - **Ubersuggest Chrome Extension** - the Ubersuggest Chrome Extension shows you actionable SEO metrics in Google/YouTube/Amazon search results. `FREE` [`Chrome`](https://chrome.google.com/webstore/detail/ubersuggest/nmpgaoofmjlimabncmnmnopjabbflegf)
 
-- **Link Research Toolbar** - adds various SEO Matrics such as link strength and trust to Google search results. `FREE` [`Chrome`](https://chrome.google.com/webstore/detail/link-research-seo-toolbar/eagkigdnclikabndlojagifehppodooi/) [`Firefox`](https://addons.mozilla.org/en-US/firefox/addon/link-research-seo-toolbar/) <!--<img src="https://browserextension.dev/images/SEO-Chrome-Extensions/link-research-toolbar.png" alt="SEO Toolbar Preview" style="max-height: 250px;">-->
+- **Link Research Toolbar** - adds various SEO metrics such as link strength and trust to Google search results. `FREE` [`Chrome`](https://chrome.google.com/webstore/detail/link-research-seo-toolbar/eagkigdnclikabndlojagifehppodooi/) [`Firefox`](https://addons.mozilla.org/en-US/firefox/addon/link-research-seo-toolbar/) <!--<img src="https://browserextension.dev/images/SEO-Chrome-Extensions/link-research-toolbar.png" alt="SEO Toolbar Preview" style="max-height: 250px;">-->
 
 
 ## Google My Business
