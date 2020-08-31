@@ -33,4 +33,4 @@ To learn more or install an extension click the labels `Chrome`, `Firefox`, etc.
 
 ## Please Note
 
-This repo will be syned to [browserextension.dev](https://browserextension.dev/seo-chrome-extensions) occasionally.
+This repo will be syned to the related page on [browserextension.dev](https://browserextension.dev/seo-chrome-extensions) ([GitHub for browserextension.dev](https://github.com/spekulatius/browserextension.dev/)) occasionally.
