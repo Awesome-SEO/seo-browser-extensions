@@ -14,6 +14,8 @@ To learn more or install an extension, click the labels `Chrome`, `Firefox`, etc
 
 - **Link Checker Extension** - Link checker extension to analyse all links on the current page. `FREE` [`Chrome`](https://chrome.google.com/webstore/detail/free-backlink-checker-by/nifeadedgedikheglfngocdgfidiiimi/) [`Firefox`](https://addons.mozilla.org/en-US/firefox/addon/free-backlink-checker-by-lrt) <!--<img src="/images/SEO-Chrome-Extensions/link-research-checker.png" alt="Demo of Link Checker Extension" style="max-height: 250px;">-->
 
+- [**PageExplorer**](https://pageexplorer.net) - Connects to Google, gets your Google Search Console data and helps you understand it page-by-page. `FREE` [`Chrome`](https://chrome.google.com/webstore/detail/pageexplorer/bddlccnclehmmpgmkhboflgpanfijicj) [`Firefox`](https://addons.mozilla.org/en-US/firefox/addon/pageexplorer/) <!--<img src="/images/SEO-Chrome-Extensions/page-explorer.png" alt="Screenshot of PageExplorer Chrome Extension" style="max-height: 250px;">-->
+
 
 ## SERP Enhancement
 
