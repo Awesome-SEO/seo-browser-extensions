@@ -24,6 +24,11 @@ To learn more or install an extension, click the labels `Chrome`, `Firefox`, etc
 - **Link Research Toolbar** - adds various SEO metrics such as link strength and trust to Google search results. `FREE` [`Chrome`](https://chrome.google.com/webstore/detail/link-research-seo-toolbar/eagkigdnclikabndlojagifehppodooi/) [`Firefox`](https://addons.mozilla.org/en-US/firefox/addon/link-research-seo-toolbar/) <!--<img src="/images/SEO-Chrome-Extensions/link-research-toolbar.png" alt="SEO Toolbar Preview" style="max-height: 250px;">-->
 
 
+## Social Media
+
+- **CrowdTangle Link Checker** - the CrowdTangle Link Checker shares collected insights about social media activity about the current page. Requires Facebook sign-in. `FREE` [`Chrome`](https://chrome.google.com/webstore/detail/crowdtangle-link-checker/klakndphagmmfkpelfkgjbkimjihpmkh)
+
+
 ## Google My Business
 
 - **GMB Spy** - GMB Spy allows you to see your competitors Google My Business (GMB) categories on Google Maps. `FREE` [`Chrome`](https://chrome.google.com/webstore/detail/gmbspy/hijfnlgdhfpmnckieikhinolopcolofe)
