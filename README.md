@@ -1,6 +1,6 @@
 # Awesome Browser Extensions for SEO [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-This is a curated list of awesome SEO-related Chrome/browser extensions. For contributions please check [this](https://github.com/Awesome-SEO/seo-browser-extensions/blob/master/CONTRIBUTIONS.md).
+This is a curated list of awesome SEO-related Chrome/browser extensions. [SEO bookmarklets](https://github.com/Awesome-SEO/seo-bookmarklets) might be of interest too. For contributions please check [this](https://github.com/Awesome-SEO/seo-browser-extensions/blob/master/CONTRIBUTIONS.md).
 
 <content>
 To learn more or install an extension, click the labels `Chrome`, `Firefox`, etc.
