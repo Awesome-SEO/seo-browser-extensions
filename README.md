@@ -23,6 +23,8 @@ To learn more or install an extension, click the labels `Chrome`, `Firefox`, etc
 
 - **Link Research Toolbar** - adds various SEO metrics such as link strength and trust to Google search results. `FREE` [`Chrome`](https://chrome.google.com/webstore/detail/link-research-seo-toolbar/eagkigdnclikabndlojagifehppodooi/) [`Firefox`](https://addons.mozilla.org/en-US/firefox/addon/link-research-seo-toolbar/) <!--<img src="/images/SEO-Chrome-Extensions/link-research-toolbar.png" alt="SEO Toolbar Preview" style="max-height: 250px;">-->
 
+- **Keyword Surfer** - adds keyword volume to auto-suggested values, SERP entries, and in similar keywords block. `FREE` [`Chrome`](https://surferseo.com/keyword-surfer-extension)
+
 
 ## Social Media
 
